@@ -35,7 +35,7 @@ The project uses six preprocessed datasets:
 
 These datasets contain information about transaction counts, transaction amounts, states, districts, quarters, years, mobile brands, and registered users.
 
-**Dataset source:** [[PhonePe Pulse GitHub Repository](https://github.com/PhonePe/pulse)](https://github.com/1234arashta/PhonePe-Pulse-Data-Visualization/blob/main/drive-download-20261024T144051Z-1-001.zip)
+**Dataset source:**(https://github.com/1234arashta/PhonePe-Pulse-Data-Visualization/blob/main/drive-download-20261024T144051Z-1-001.zip)
 
 ## Dashboard Features
 
